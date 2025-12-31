@@ -1,0 +1,7 @@
+{
+  "name": "Festive New Year Explorer",
+  "description": "An AI-powered celebration platform featuring personalized greetings, festive image generation, and local event discovery for the New Year.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

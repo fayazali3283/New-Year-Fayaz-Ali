@@ -1,0 +1,11 @@
+{
+  "name": "festive-new-year-2026",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": "20.x"
+  },
+  "scripts": {
+    "build": "echo 'No build step required for static ESM'"
+  }
+}
